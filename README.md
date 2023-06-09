@@ -16,7 +16,7 @@ You need to install the following libraries:
 ` pip install requests beautifulsoup4 selenium `
 ```
 
-Run the script using the following command: 
+##### 3-Run the script using the following command: 
 ```
  ` python Scraper_Selenium.py ` 
 ```
