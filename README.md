@@ -10,7 +10,7 @@ To run this script, follow this steps:
 `git clone https://github.com/your-username/your-repo.git`
 ```
 ##### 2- Install the required dependencies:
-To use this script, make sure you have Python 3.1.1 installed on your system. You also need to install the following libraries:
+To use this script, make sure you have Python 3.x installed on your system. You also need to install the following libraries:
 ```
 ` pip install requests beautifulsoup4 selenium `
 ```
