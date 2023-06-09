@@ -1,8 +1,8 @@
-## Project
+### Project
 Web Scraping with BeautifulSoup and Selenium
-## Description
+### Description
 This is a Python script that scrapes the prices of a website (https://www.woolworths.com.au/shop/browse/drinks/cordials-juices-iced-teas/iced-teas). 
-## Installation
+### Installation
 To run this script, follow this steps:
 
 ##### 1- Clone the repository:
