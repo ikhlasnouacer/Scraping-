@@ -1,2 +1,4 @@
 requests
-BeautifulSoup
+beautifulsoup4
+selenium
+flask
