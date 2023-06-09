@@ -5,13 +5,15 @@ To use this script, make sure you have Python 3.x installed on your system. You 
 requests
 beautifulsoup4
 You can install these libraries using pip:
-$ pip install requests 
-$ pip install beautifulsoup4
+
+`pip install requests`
+
+`pip install beautifulsoup4`
 
 # Usage
 Clone the repository 
 Run the script Scraping.py using the following command:
 
-$ python Scraping.py
+`python Scraping.py`
 
 
