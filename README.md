@@ -1,19 +1,24 @@
-# Scraping
-This is a Python script that scrapes the prices of iced teas from the Woolworths website. It utilizes the requests library to send a GET request to the website and the BeautifulSoup library to parse the HTML content.
-# Installation
+# Project Name
+Web Scraping with BeautifulSoup and Selenium
+## Description
+This is a Python script that scrapes the prices of a website (https://www.woolworths.com.au/shop/browse/drinks/cordials-juices-iced-teas/iced-teas). 
+## Installation
+To run this script, follow this steps:
+
+### 1- Clone the repository:
+
+`git clone https://github.com/your-username/your-repo.git`
+
+### 2- Install the required dependencies:
 To use this script, make sure you have Python 3.1.1 installed on your system. You also need to install the following libraries:
-requests and beautifulsoup4
 
-You can install these libraries using pip:
+` pip install requests beautifulsoup4 selenium `
 
-`pip install requests`
+```
+Run the script using the following command: 
 
-`pip install beautifulsoup4`
-
-# Usage
-Clone the repository 
-Run the script Scraping.py using the following command:
-
-`python Scraping.py`
+ ` python Scraper_Selenium.py `
+ 
+```
 
 
