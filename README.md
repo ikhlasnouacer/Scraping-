@@ -8,7 +8,7 @@ You also need to follow this steps:
 
 ##### 1- Clone the repository:
 ```
-`git clone https://github.com/your-username/your-repo.git`
+`git clone [repository URL]`
 ```
 ##### 2- Install the required dependencies:
 You need to install the following libraries:
